@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anddymax
+- 👋 Hi, I’m @Aniket
 - 👀 I’m interested in web devlopment.
 - 🌱 I’m currently learning UG Engineering
 - 💞️ I’m looking to collaborate on web.
