@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aniket
+- Currently learn Java.
 - 👀 I’m interested in web devlopment.
 - 🌱 I’m currently learning UG Engineering
 - 💞️ I’m looking to collaborate on web.
