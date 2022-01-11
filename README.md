@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket
 - Currently learning Java.
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning UG Engineering
+- 🌱 I’m currently pursuing Engineering
 - 💞️ I’m looking to collaborate on web.
 - 📫 How to reach me https://bio.link/aniketshisode
 - youtube channel :https://www.youtube.com/channel/UCNOYFeRpRNAixKeNgrWgOHg?sub_confirmation=1
